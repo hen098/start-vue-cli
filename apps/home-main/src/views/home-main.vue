@@ -1,15 +1,13 @@
 <template>
-  <div id="app">
-    <keep-alive include="">
-      <router-view/>
-    </keep-alive>
+  <div id="home-main">
+    <h1>Home Main</h1>
   </div>
 </template>
 <script>
 import { mapGetters, mapMutations, mapActions } from 'vuex'
 
 export default {
-  name: 'App',
+  name: 'home-main',
 
   data () {
     return {
