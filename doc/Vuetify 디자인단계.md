@@ -12,6 +12,9 @@
 * 테스팅 > 화면 구성이 제대로 되었는가 주력
 * 싱글 컴포넌트 (*.vue) 에 ajax 나 기타 등등 포함하면 디버깅도 어렵고, 잦은 화면 수정에 어려움
 
+# 디자인 단계
+
+
 ## Vutify 
 ### `<v-container>`
 반응형과 그리드 구성이 가능하려면 해당 태그로 감싸야한다.
@@ -39,6 +42,6 @@
 ### `<v-list>`
 * two-line : 하나의 아이템이 두 줄로 구성되어 표현된다
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1ODI4NTM5OSw1OTI2NjAyNDMsLTgyNT
-c1NjEyNSw0NTAyNjUyMTFdfQ==
+eyJoaXN0b3J5IjpbNDU2ODQxNTAsLTc1ODI4NTM5OSw1OTI2Nj
+AyNDMsLTgyNTc1NjEyNSw0NTAyNjUyMTFdfQ==
 -->
