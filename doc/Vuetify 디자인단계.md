@@ -1,5 +1,5 @@
 ## 개발 순서 
-1. 웹 화면 구성 단계 - 디자인 단계
+**1. 웹 화면 구성 단계 - 디자인 단계**
 2. 데이터 및 로직 구성 단계 - 데이터 단계
 3. API 연결 단계 - API 단계
 
@@ -44,7 +44,7 @@ computed 같은 것 마저도 배제하고 오직 data와 `<template>`부분만 
 ### `<v-list>`
 * two-line : 하나의 아이템이 두 줄로 구성되어 표현된다
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzkwMDcyNTMsNDY0NDY0MTI1LC03NT
-gyODUzOTksNTkyNjYwMjQzLC04MjU3NTYxMjUsNDUwMjY1MjEx
-XX0=
+eyJoaXN0b3J5IjpbLTE5Mzg2MDEyMzcsLTE5NzkwMDcyNTMsND
+Y0NDY0MTI1LC03NTgyODUzOTksNTkyNjYwMjQzLC04MjU3NTYx
+MjUsNDUwMjY1MjExXX0=
 -->
