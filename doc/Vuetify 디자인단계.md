@@ -4,6 +4,8 @@
 3. API 연결 단계 - API 단계
 
 # 디자인 단계
+디자인 단계에서는 어떻게 보여지는지가 중요하다. 
+실제 동작하듯이 보이는 가상의 데이터를 vue 컴포넌트 data 속성을 이용한다
 ### data 프로퍼티 정의와 `<template>`
 * 화면구성
 * data 필드 정의
@@ -39,6 +41,6 @@
 ### `<v-list>`
 * two-line : 하나의 아이템이 두 줄로 구성되어 표현된다
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM5NTI5MTEzLC03NTgyODUzOTksNTkyNj
-YwMjQzLC04MjU3NTYxMjUsNDUwMjY1MjExXX0=
+eyJoaXN0b3J5IjpbLTMzMDUyNjU4MiwtNzU4Mjg1Mzk5LDU5Mj
+Y2MDI0MywtODI1NzU2MTI1LDQ1MDI2NTIxMV19
 -->
