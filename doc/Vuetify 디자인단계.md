@@ -17,6 +17,7 @@ computed 같은 것 마저도 배제하고 오직 data와 `<template>`부분만 
 * 싱글 컴포넌트 (*.vue) 에 ajax 나 기타 등등 포함하면 디버깅도 어렵고, 잦은 화면 수정에 어려움
 
 ## Vutify 
+
 ### `<v-container>`
 반응형과 그리드 구성이 가능하려면 해당 태그로 감싸야한다.
 * fluid : v-container를 사용하는 부모 폭을 다 사용함 (width=100%)
@@ -43,6 +44,7 @@ computed 같은 것 마저도 배제하고 오직 data와 `<template>`부분만 
 ### `<v-list>`
 * two-line : 하나의 아이템이 두 줄로 구성되어 표현된다
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY0NDY0MTI1LC03NTgyODUzOTksNTkyNj
-YwMjQzLC04MjU3NTYxMjUsNDUwMjY1MjExXX0=
+eyJoaXN0b3J5IjpbLTE5NzkwMDcyNTMsNDY0NDY0MTI1LC03NT
+gyODUzOTksNTkyNjYwMjQzLC04MjU3NTYxMjUsNDUwMjY1MjEx
+XX0=
 -->
