@@ -35,5 +35,5 @@
 ### `<v-list>`
 * two-line : 하나의 아이템이 두 줄로 구성되어 표현된다
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUwMjY1MjExXX0=
+eyJoaXN0b3J5IjpbLTgyNTc1NjEyNSw0NTAyNjUyMTFdfQ==
 -->
