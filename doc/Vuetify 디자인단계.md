@@ -25,14 +25,14 @@
 * height : 이미지 높이를 지정된 크기로 맞춤
 * src : 이미지 지정
 
-###`<v-layout>` 
+### `<v-layout>` 
 내부 컴포넌트들을 정렬하기 위한 레이아웃 컴포넌트 
 주로 v-flex와 조합되어 사용된다.
 * align-center : 수직의 가운데 배치 
 * justify-center: 수평의 가운데 배치
 * column : 수직으로 나열 
 
-###`<v-list>`
+### `<v-list>`
 * two-line : 하나의 아이템이 두 줄로 구성되어 표현된다
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNDUwMjY1MjExXX0=
